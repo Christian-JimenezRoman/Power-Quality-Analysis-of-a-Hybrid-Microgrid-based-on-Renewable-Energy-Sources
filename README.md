@@ -11,3 +11,5 @@ instructions
 2. open the .m file in Matlab.
 3.run set_parameter.m file
 4.visualize the results in the measurements block of the .slx model
+
+
